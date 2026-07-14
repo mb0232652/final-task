@@ -17,7 +17,7 @@
 5.Не указан тип документа.Сейчас  страница начинается с <html>. А надо с <!DOCTYPE html>.
 6.Сейчас отсутствует в footre кнопка возврата "Вернуться на главную". А надо <footer class="animated fadeIn">
          <p class="location" align="center">
-            <a class="nav-link" href="index.html">Вернуться на главную</a>
+            <a href="index.html">Вернуться на главную</a>
 
 Файл mac.html.
 1. Некорректно задан путь между страницами HTML.Сейчас <a href="../index.html">Вернуться на главную</a>, а должно быть 
